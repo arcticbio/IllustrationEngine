@@ -6,5 +6,4 @@ Primary purpose is to create engaging visual anchors to help young readers conne
 
 AI inference based on open source Mistral-Nemo (local) for LLM processing and Flux.1-Schnell (hosted) for image generation.
 
-
-![image (17)](https://github.com/user-attachments/assets/c03b2985-7ed1-413a-a76a-c9649f655ccf)
+![image (9)](https://github.com/user-attachments/assets/48189443-84c4-4b70-bc8e-0b2f12e69863)
