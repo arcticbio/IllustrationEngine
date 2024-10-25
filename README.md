@@ -4,6 +4,7 @@ Reads in an eBook object, building contextually accurate images for each dynamic
 
 Primary purpose is to create engaging visual anchors to help young readers connect with dense material that requires a longer mental context window.
 
+AI inference based on open source Mistral-Nemo (local) for LLM processing and Flux.1-Schnell (hosted) for image generation.
 
 
 ![image (17)](https://github.com/user-attachments/assets/c03b2985-7ed1-413a-a76a-c9649f655ccf)
